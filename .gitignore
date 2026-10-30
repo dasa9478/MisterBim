@@ -26,3 +26,11 @@ next-env.d.ts
 
 # Local clone nested inside the app folder
 /misterbim/MisterBim/
+
+# The deployable Next.js app lives in /misterbim
+/app/
+/lib/
+/package.json
+/package-lock.json
+/postcss.config.mjs
+/tsconfig.json
