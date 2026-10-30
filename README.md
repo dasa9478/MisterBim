@@ -1,5 +1,7 @@
 # MisterBim
 
+Criação da Bia IA especialista.
+
 Aplicação Next.js localizada em [`misterbim/`](./misterbim/).
 
 ## Executar localmente
